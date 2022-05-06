@@ -7,8 +7,5 @@ public class Numere {
         for (int i = 0; i < myNum.length; i++) {
             System.out.print(myNum[i] +",");
         }
-
     }
-
-
 }
